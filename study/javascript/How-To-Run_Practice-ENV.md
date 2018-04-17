@@ -6,7 +6,7 @@
 - 웹브라우저
 - 텍스트 편집기
 
-나는 여기서 웹브라우저는 __크롬__으로 텍스트 편집기는 __ATOM 편집기__를 사용할 것이다.
+나는 여기서 웹브라우저는 **크롬**으로 텍스트 편집기는 **ATOM 편집기**를 사용할 것이다.
 > 에디터를 고르는데 참고하자  
 >> What are the best JavaScript IDEs or editors? <https://www.slant.co/topics/1686/~javascript-ides-or-editors>
 
