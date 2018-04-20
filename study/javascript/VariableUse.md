@@ -13,7 +13,7 @@ console.log(a)  // 숫자 10 출력
 ```
 'var'를 생략할 수 있다고 하는데 유효범위와 관련해서 영향을 받는 부분이 있어 명확하게 알기전까진 'var'를 사용하는 것이 좋다.
 
-변수끼리 연산도 가능하다.
+변수끼리 연산도 가능하다.(연산자 참조 - https://developer.mozilla.org/ko/docs/Web/JavaScript/Guide/Expressions_and_Operators>
 ```
 var a = 1;
 var b = 2;
