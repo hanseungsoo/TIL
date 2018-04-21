@@ -31,7 +31,7 @@ alert(true === '1') // false
 alert(0 === -0)  // true
 alert(NaN === NaN)  // false (NaN은 계산할 수 없음)
 ```
-'=='와 '==='의 차이점 참조 <https://dorey.github.io/JavaScript-Equality-Table/>
+'=='와 '==='의 차이점 참조 <https://dorey.github.io/JavaScript-Equality-Table/>  
 -'!' : 부정(비교 연산자에서 같지 않다를 표현)
 -'>' : 좌항이 우항보다 크다면 true, 작다면 false
 -'>=' : 좌항이 우항보다 크거나 같다면 true, 작다면 false
