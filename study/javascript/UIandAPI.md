@@ -16,9 +16,9 @@ javascript:alert("Hello world");  //  흔히 쓰는 경고창을 보여주는 �
 - 튜토리얼 : 환경이 어떠한 기능을 제공하는지 이해하는 문서(문법)
 
 ## 참고
-ECMAScript (표준문서) - <http://www.ecma-international.org/publications/standards/Ecma-261.htm>
-자바스크립트 사전 (생활코딩) - <https://opentutorials.org/course/50>
-자바스크립트 레퍼런스 (MDN) - <https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference>
-jscript 레퍼런스 (MSDN) - <https://msdn.microsoft.com/ko-kr/library/z688wt03(v=vs.100).aspx>
+ECMAScript (표준문서) - <http://www.ecma-international.org/publications/standards/Ecma-261.htm>  
+자바스크립트 사전 (생활코딩) - <https://opentutorials.org/course/50>  
+자바스크립트 레퍼런스 (MDN) - <https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference>  
+jscript 레퍼런스 (MSDN) - <https://msdn.microsoft.com/ko-kr/library/z688wt03(v=vs.100).aspx>  
 
 
